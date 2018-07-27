@@ -17,6 +17,7 @@
         "gulp-inline-css": "^3.2.0",
         "gulp-pug": "^3.3.0",
         "gulp-rename": "^1.2.2",
+        "gulp-replace": "^1.0.0",
         "gulp-sass": "^3.1.0"
     }
 }
